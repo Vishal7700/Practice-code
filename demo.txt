@@ -1,4 +1,4 @@
 class demo
 {
-System.printlin("Hello world");
+System.Out.printlin("Hello world");
 }
