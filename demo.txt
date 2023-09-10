@@ -1,0 +1,4 @@
+class demo
+{
+System.printlin("Hello world");
+}
